@@ -7,7 +7,7 @@
 # SDG           : SDG 4 - Quality Education
 # Institution   : Limkokwing University of Creative Technology
 #                 Sierra Leone
-# Semester      : 02 (March 2026 - July 2026)
+# Semester      : 02
 # ============================================================
 
 # --- Constants ---
